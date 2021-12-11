@@ -1,0 +1,5 @@
+fastapi==0.70.0
+annoy==1.16.3
+pyhocon==0.3.38
+numpy==1.21.4
+singleton-decorator==1.0.0
